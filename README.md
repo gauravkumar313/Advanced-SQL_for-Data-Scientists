@@ -11,10 +11,6 @@ SQL-for Data-Analysis SQL exercise files
 
 Now, SQL commands can be used to explore the dataset and run queries on it.
 
-</br>
-Here is the schema of the database used for all the queries.
-
-![](schema.png)
 
 </br>
 I have also included the screenshots from the videos for some important and useful concepts that may need revision in future.
