@@ -15,7 +15,6 @@ Now, SQL commands can be used to explore the dataset and run queries on it.
 </br>
 I have also included the screenshots from the videos for some important and useful concepts that may need revision in future.
 
-For the remaining ones, please refer these [SQL Tutorials](https://community.modeanalytics.com/sql/) (by MODE as well).
 
 <br/>
 ........................................................................................................
